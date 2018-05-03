@@ -1,0 +1,8 @@
+Package: com.lotogram.httpproxychanger
+Name: HttpProxyChanger
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: yecc
+Author: yecc
+Section: Utilities

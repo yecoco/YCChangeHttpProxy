@@ -1,0 +1,3 @@
+@interface RBRootViewController : UITableViewController
+
+@end
